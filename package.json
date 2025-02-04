@@ -1,0 +1,27 @@
+{
+  "name": "apis-library",
+  "version": "1.0.0",
+  "description": "DRM APIs Library",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioGLDIGI/first-library.git"
+  },
+  "keywords": [
+    "MarioGLDIGI"
+  ],
+  "author": "MarioGLDIGI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarioGLDIGI/first-library/issues"
+  },
+  "homepage": "https://github.com/MarioGLDIGI/first-library#readme"
+}
