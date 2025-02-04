@@ -1,5 +1,5 @@
 {
-  "name": "apis-library",
+  "name": "@mariogl_digi/apis-library",
   "version": "1.0.0",
   "description": "DRM APIs Library",
   "main": "index.js",
